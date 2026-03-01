@@ -2,7 +2,7 @@
 
 ---
 
-# 🧠 Inter_IIIT — AI-Driven Email Threat Detection
+# 🧠 AI-Driven Email Threat Detection
 
 This repository contains the implementation of an **AI-based hybrid system** for detecting and classifying **phishing, spam, and malicious emails** using **NLP (DistilBERT)** and **URL-based feature engineering**.
 The project fine-tunes transformer embeddings for textual understanding and combines them with handcrafted numerical features for enhanced threat detection accuracy.
