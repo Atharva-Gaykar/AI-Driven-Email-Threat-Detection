@@ -35,11 +35,18 @@ Handles **data gathering and preprocessing** for the email corpus.
 
 ---
 
+## Model deployed on Huggingface 🤗
+
+https://huggingface.co/spaces/Gaykar/ClassifyEmail
+
+
 ## ⚙️ Tech Stack
 
 * Python · Pandas · Scikit-learn · XGBoost
 * Hugging Face Transformers (DistilBERT)
 * Regex · URL parsing · NLP preprocessing
+* Fast API
+* Docker
 
 
 
