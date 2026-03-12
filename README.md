@@ -120,9 +120,3 @@ The trained model is deployed on **Hugging Face Spaces**:
 
 💡 **Key Idea:**
 By combining **semantic email understanding (transformer embeddings)** with **structural URL risk indicators**, the system achieves **highly accurate phishing detection** while remaining lightweight enough for real-world deployment.
-
----
-
-
-
-If you want, I can also make a **🔥 “GitHub-star-worthy” README (with badges, pipeline diagram, results table, dataset description, and architecture diagram)** — which makes projects look **much stronger for internships and hackathons**.
